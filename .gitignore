@@ -16,5 +16,3 @@ src/*.o
 
 # Ignore shared library files
 src/*.so
-
-
